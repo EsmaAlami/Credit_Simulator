@@ -1,4 +1,5 @@
 # Credit_Simulator_REST
+Credit Simulation project: REST with jersy and realized with JEE and Bootstrap
 Tools used :
 
  1)  JDK 8u60-64x
